@@ -1,5 +1,0 @@
-# Redirecciona todo al archivo index.php de Laravel
-/*    /index.php   200
-
-# Redirecciona los errores 404 a index.php para que Laravel lo maneje
-/404.html   /index.php   200
